@@ -4,4 +4,5 @@
 
 change title; 
  add social medias; 
-  change placeholder
+  change placeholder;
+   add link on titles and images
