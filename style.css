@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&@900display=swap');
+
+body {
+	margin: 0;
+}
+
+nav {
+	padding: 5px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: black;
+	height: 50px;
+}
+
+nav p {
+	color: white;
+	margin-right: 50px;
+	font-weight: 900;
+	font-size: 1.5em;
+}
+
+i {
+	margin-right: 10px;
+	color: white;
+}
+
+main{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	align-items: center;
+	/*background-color: grey;*/
+	width: 1200px;
+	margin: 0 auto;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+
+.big-post {
+	width: 950px;
+	display: flex;
+	justify-content: center;
+}
+
+.big-image-post {
+	margin-right: 20px;
+}
+
+.big-text-post {
+	width: 300px;
+	margin-left: 30px;
+}
+
+.post-0, .post-1, .post-2, .post-3, .post-4, .post-5, .post-6 {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	width: 250px;
+	height: 350px;
+	/*background-color: black;*/
+	margin-left: 3px;
+	padding-top: 50px;
+	padding-bottom: 20px;
+	margin-bottom: 30px;
+	/*border-radius: 10px;*/
+}
+
+.image-post {
+	/*border-radius: 5px;*/
+	width: 200px;
+	height:200px;
+	background-color: white;
+	margin-top: 5px;
+}
+
+.title-post {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 5px;
+	width: 200px;
+	height:50px;
+	/*background-color: red;*/
+	margin-top: 10px;
+}
+
+.text-post {
+	/*border-radius: 5px;*/
+	width: 200px;
+	height:100px;
+	/*background-color: grey;*/
+	margin-top: 0px;
+}
+
+h1 {
+	font-size: 1.4em;
+	font-family: 'Source Serif Pro', serif;
+}
+
+h1:hover {
+	text-decoration: underline;
+}
+
+p{
+	font-size: 0.9em;
+	/*margin: 10px;*/
+	font-family: 'Poppins', sans-serif;
+}
+
+footer {
+	position: absolute;
+	background-color: black;
+	color: white;
+	text-align: center;
+	width: 100%;
+}
