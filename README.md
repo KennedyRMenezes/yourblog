@@ -2,7 +2,7 @@
 
 ##future implamatations
 
-change title; 
- add social medias; 
-  change placeholder;
-   add link on titles and images
+change title </br>
+add social medias </br>
+change placeholder </br>
+add link on titles and images </br>
