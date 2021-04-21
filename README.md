@@ -1,6 +1,6 @@
 # yourblog
 
-##future implamatations
+##future implamatations </br></br>
 
 change title </br></br>
 add social medias </br></br>
