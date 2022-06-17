@@ -1,5 +1,7 @@
 # yourblog
 
+Simple Blog Design
+
 ##future implamatations </br></br>
 
 change title </br></br>
